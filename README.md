@@ -64,6 +64,19 @@ The application accepts the 13 input attributes and returns a model-estimated pr
 
 Open `Heart_Disease_Statistical_Analysis.ipynb` in Jupyter or Google Colab. Ensure the CSV is available at the path expected by the notebook, then execute cells in order. The notebook's saved model cell writes `model.pkl` and `scaler.pkl` to the current working directory.
 
+---
+
+## 📸 Screenshots
+
+### Application Interface – Top
+![Interface Top](screenshots/interface-top.png)
+
+### Application Interface – Bottom
+![Interface Bottom](screenshots/interface-bottom.png)
+
+### Prediction Result
+![Prediction Result](screenshots/prediction-result.png)
+
 ## Authors
 
 Harsh Kirti Singh and Shagun Bhardwaj  
